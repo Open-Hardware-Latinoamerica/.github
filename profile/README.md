@@ -1,7 +1,13 @@
-![](https://i.imgur.com/LSgiUoE.png)
+![](img/logo_completo.jpg)
 
-### Somos un gurpo autogestionado e internacional de profesionales y entusiastas del Hardware Open Source y el Software Libre
+Somos un gurpo autogestionado e internacional de profesionales y entusiastas del Hardware Open Source y el Software Libre
 
-|![](https://openhardwarela.com/wp-content/uploads/2021/01/cropped-photo_2021-01-12_10-44-22.jpg)|![](https://openhardwarela.com/wp-content/uploads/2021/01/cropped-profile_photo-190x190-1.png)|![](https://openhardwarela.com/wp-content/uploads/2021/01/cropped-photo_2021-01-11_23-35-33.jpg)|![](https://openhardwarela.com/wp-content/uploads/2021/01/tute.jpg)|![](https://openhardwarela.com/wp-content/uploads/2021/01/cropped-photo_2021-01-10_17-40-20.jpg)|![](https://openhardwarela.com/wp-content/uploads/2022/01/juan_carrique.jpg)|
+|![](img/esteban.jpeg)|![](img/maykol.jpg)|![](img/ronald.jpeg)|![](img/tute.jpeg)|![](img/yefry.jpeg)|![](img/juan.jpeg)|
 |--|--|--|--|--|--|
 |Esteban Corredor|Maykol Rey|Ronal Forero|Matías S.Ávalos|Yeffri J. Salazar|Juan Carrique|
+
+
+## Repositorios destacados
+
+* [STM32-bluepill-iomod](https://github.com/Open-Hardware-Latinoamerica/stm32-bluepill-iomod)
+* [STM32F1](https://github.com/Open-Hardware-Latinoamerica/STM32F1)
