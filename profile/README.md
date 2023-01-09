@@ -2,7 +2,7 @@
 
 Somos un gurpo autogestionado e internacional de profesionales y entusiastas del Hardware Open Source y el Software Libre
 
-|![](img/esteban.jpeg)|![](img/maykol.jpg)|![](img/ronald.jpeg)|![](img/tute.jpeg)|![](img/yefry.jpeg)|![](img/juan.jpeg)|
+|![]([img/esteban.jpeg](https://github.com/Open-Hardware-Latinoamerica/.github/blob/main/profile/img/esteban.jpeg))|![](img/maykol.jpg)|![](img/ronald.jpeg)|![](img/tute.jpeg)|![](img/yefry.jpeg)|![](img/juan.jpeg)|
 |--|--|--|--|--|--|
 |Esteban Corredor|Maykol Rey|Ronal Forero|Matías S.Ávalos|Yeffri J. Salazar|Juan Carrique|
 
