@@ -1,4 +1,4 @@
-![](img/logo_completo.jpg)
+![](https://github.com/Open-Hardware-Latinoamerica/.github/blob/main/profile/img/logo_completo.jpg)
 
 Somos un gurpo autogestionado e internacional de profesionales y entusiastas del Hardware Open Source y el Software Libre
 
